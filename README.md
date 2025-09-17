@@ -85,10 +85,9 @@
 
 ## 💌 Let's Create Something Beautiful Together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1)](https://linkedin.com/in/niranjana-das)
-[![Twitter](https://img.shields.io/badge/Twitter-DA70D6?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niranjana_das)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=safari&logoColor=white)](https://niranjana-das.dev)
-[![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:niranjana.das@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-DA70D6?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/ni__ra__nja__na__?utm_source=ig_web_button_share_sheet&igsh=MWxkOHM5NnB3M2gzbw==)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=safari&logoColor=white)](https://nianjanadas.netlify.app/)
 
 <br>
 
