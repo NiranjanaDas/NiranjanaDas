@@ -2,7 +2,7 @@
 
 # Hi there, I'm Niranjana Das! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Always+Learning" alt="Typing SVG" />
+**Full Stack Developer | MERN Stack Specialist | Problem Solver**
 
 <br>
 
@@ -58,24 +58,20 @@
 <table>
 <tr>
 <td align="center" width="300">
-<img src="https://img.icons8.com/color/96/000000/development.png"/>
 <h3>🔧 Full Stack Development</h3>
 <p>Building end-to-end web applications using MERN stack</p>
 </td>
 <td align="center" width="300">
-<img src="https://img.icons8.com/color/96/000000/design.png"/>
 <h3>🎨 Frontend Magic</h3>
 <p>Creating responsive and user-friendly interfaces with React</p>
 </td>
 </tr>
 <tr>
 <td align="center" width="300">
-<img src="https://img.icons8.com/color/96/000000/server.png"/>
 <h3>⚙️ Backend Engineering</h3>
 <p>Developing scalable APIs and server-side logic with Node.js and Express</p>
 </td>
 <td align="center" width="300">
-<img src="https://img.icons8.com/color/96/000000/database.png"/>
 <h3>🗄️ Database Design</h3>
 <p>Working with MongoDB for efficient data management</p>
 </td>
@@ -97,20 +93,6 @@
 💡 **Building projects** that combine creativity with functionality  
 🤝 **Open to collaborating** on interesting full-stack projects  
 📚 **Strengthening foundation** in data structures and algorithms  
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=NiranjanaDas&show_icons=true&theme=gradient&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&text_color=ffffff" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanaDas&theme=dark&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakLabel=ffffff" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanaDas&layout=compact&theme=gradient&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
@@ -141,11 +123,5 @@
 
 *"Code is like humor. When you have to explain it, it's bad."*  
 **– Cory House**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=4F46E5&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Closing Message" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" />
 
 </div>
