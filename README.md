@@ -3,6 +3,8 @@
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** specializing in the **MERN Stack** with a love for creating dynamic and responsive web applications. I enjoy working across the entire development spectrum - from crafting intuitive user interfaces to building robust backend systems.
 
+![Profile Views](https://komarev.com/ghpvc/?username=NiranjanaDas&color=blue)
+
 ## 💻 Tech Stack
 
 ### Frontend Development
@@ -52,4 +54,3 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack** wit
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-![Profile Views](https://komarev.com/ghpvc/?username=NiranjanaDas&color=blue)
